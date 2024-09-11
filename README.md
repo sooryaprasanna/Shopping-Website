@@ -2,6 +2,7 @@
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/0c427181-83e1-4060-93a1-31201fbec815">
 
+**Rules Implemented**
 - ‘Grab it Up’ is an online technology store that offers wide range of latest tech products in the market.
 - Users can register in the sign-up page to become a customer and to purchase a product.
 - Enables people to ‘search’ and ‘filter by brand’.
